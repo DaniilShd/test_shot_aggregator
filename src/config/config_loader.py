@@ -1,7 +1,7 @@
 from pydantic import BaseModel, Field
 import yaml
 from pathlib import Path
-from config.scheme import AppConfig
+from .scheme import AppConfig
 
 # 3. Функция загрузки конфига
 def load_config() -> AppConfig:

@@ -10,7 +10,7 @@ tracker:
   nn_budget: 100
 
 similarity:
-  alpha: 0.7
+  alpha: 0.2
 
 compare:
-  threshold: 0.6
+  threshold: 0.7

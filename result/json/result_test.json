@@ -1,0 +1,1821 @@
+{
+    "probabilities": [
+        0.7512871384765188,
+        0.794608575413346,
+        0.878719181102828,
+        0.8566487538985645,
+        0.7138767149369679,
+        0.8690144806422032,
+        0.6433871886698437,
+        0.6333223640268766,
+        0.6571338418012108,
+        0.7549267655890423,
+        0.7727418945018953,
+        0.687553336367039,
+        0.6542252660808372,
+        0.6976132202014462,
+        0.35779802805998284,
+        0.3571262710371921,
+        0.45793051757005065,
+        0.878355140258033,
+        0.8795418204480722,
+        0.7729802655385171,
+        0.8774848955666329,
+        0.8811394068542349,
+        0.8819935723479377,
+        0.8890702704580946,
+        0.8806999017903803,
+        0.8016537876099246,
+        0.4602653159763209,
+        0.6257021575038533,
+        0.6824265425470405,
+        0.7399445471245708,
+        0.5692761307637079,
+        0.5692762032981771,
+        0.6779769126020718,
+        0.6772956541092519,
+        0.8763263798552877,
+        0.8242192587695846,
+        0.7533583314848775,
+        0.8835452083432521,
+        0.6014432871204779,
+        0.6040244141201152,
+        0.4616750331494315,
+        0.46072367889106525,
+        0.870202703608371,
+        0.8804056925737583,
+        0.6657707612991324,
+        0.4595937151848253,
+        0.7410069480569069,
+        0.3321829122473329,
+        0.33326146294128767,
+        0.3347535040063001,
+        0.6024711086830233,
+        0.6013583628203776,
+        0.3363873822100013,
+        0.8781869380150057,
+        0.46760373904581787,
+        0.1644929051399231,
+        0.22000396251678467,
+        0.4590567229663025,
+        0.04932996102155307,
+        0.6688394304354377,
+        0.7419590203708109,
+        0.8772624086946242,
+        0.8905704867955201,
+        0.5219289870004733,
+        0.8667315530061178,
+        0.4594304911074333,
+        0.46196000216197675,
+        0.9016387325196871,
+        0.8915879496542837,
+        0.04998065711669786,
+        0.32396044147275327,
+        0.331675407635015,
+        0.46772178022773825,
+        0.572435690093751,
+        0.471199158898262,
+        0.47074785986275514,
+        0.4656939636506501,
+        0.46521661498206524,
+        0.4718341981153038,
+        0.45915375237251466,
+        0.6011109276953762,
+        0.598316792855934,
+        0.4650399940531251,
+        0.672506737404163,
+        0.6729045329360911,
+        0.07579958438873291,
+        0.05266773700714111,
+        0.027367115020751953,
+        0.024473607540130615,
+        0.4567590928388082,
+        0.4668879576136804,
+        0.4658991633653158,
+        0.4652694097689902,
+        0.25535713578135943,
+        0.042722559972466434,
+        0.8377719093092532,
+        0.8755816910834577,
+        0.8634412410675409,
+        0.45706208764623424,
+        0.05058787971049805,
+        0.4550882378330905,
+        0.187209310843665,
+        0.18867758655632327,
+        0.45441578830102625,
+        0.0485574275059929,
+        0.18405802032288676,
+        0.24052513741497394,
+        0.46517684638272994,
+        0.603705796548738,
+        0.044868174091109325,
+        0.025485654110871003,
+        0.8660147433620179,
+        0.87755464972769,
+        0.8714818018901794,
+        0.898238950989701,
+        0.740960544102516,
+        0.8651481948758999,
+        0.803287979206413,
+        0.8527509378671596,
+        0.8037821395627985,
+        0.8778133720025898,
+        0.8765606118959156,
+        0.877572537839968,
+        0.8782720096495342,
+        0.05939605660111935,
+        0.5976197114879248,
+        0.8194281984114389,
+        0.7249645297560365,
+        0.6666809481050026,
+        0.057284571269546225,
+        0.1409618854522705,
+        0.045411109924316406,
+        0.05898118019104004,
+        0.09977781772613525,
+        0.05713172547916512,
+        0.0556162544133979,
+        0.12914085388183594,
+        0.04791295528411865,
+        0.03975377803498492,
+        0.733688871124881,
+        0.6646581164814914,
+        0.6095442655185319,
+        0.6068096612163076,
+        0.6651496313621632,
+        0.6147966024015943,
+        0.7812786946945229,
+        0.7793380018018582,
+        0.8907754320822185,
+        0.8834613350224789,
+        0.8666710522304117,
+        0.05058943110658909,
+        0.71916512677066,
+        0.8727005941995797,
+        0.8017494616127572,
+        0.8858041860385042,
+        0.8808580593621842,
+        0.8781416781495874,
+        0.8751316221133074,
+        0.31621750265571713,
+        0.8231517756556759,
+        0.7435489299763798,
+        0.5166462551066999,
+        0.1397130521227249,
+        0.1830734939034604,
+        0.2518716151829846
+    ],
+    "detailed_results": [
+        {
+            "video_pair": [
+                0,
+                1
+            ],
+            "pairwise_similarity": 0.6185643076174057,
+            "match_rate": 15.625,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                1,
+                2
+            ],
+            "pairwise_similarity": 0.6269571229332701,
+            "match_rate": 10.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                2,
+                3
+            ],
+            "pairwise_similarity": 0.6064040944858601,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                3,
+                4
+            ],
+            "pairwise_similarity": 0.6367562305071773,
+            "match_rate": 2.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                4,
+                5
+            ],
+            "pairwise_similarity": 0.63061642531516,
+            "match_rate": 20.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                5,
+                6
+            ],
+            "pairwise_similarity": 0.6549275967889839,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                6,
+                7
+            ],
+            "pairwise_similarity": 0.6719529455396702,
+            "match_rate": 27.77777777777778,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                7,
+                8
+            ],
+            "pairwise_similarity": 0.6818730283504656,
+            "match_rate": 28.78787878787879,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                8,
+                9
+            ],
+            "pairwise_similarity": 0.6753697520329072,
+            "match_rate": 25.97402597402597,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                9,
+                10
+            ],
+            "pairwise_similarity": 0.6539376006262172,
+            "match_rate": 14.285714285714285,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                10,
+                11
+            ],
+            "pairwise_similarity": 0.6362905274905231,
+            "match_rate": 12.5,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                11,
+                12
+            ],
+            "pairwise_similarity": 0.653142409073896,
+            "match_rate": 22.727272727272727,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                12,
+                13
+            ],
+            "pairwise_similarity": 0.6639386046607488,
+            "match_rate": 26.623376623376622,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                13,
+                14
+            ],
+            "pairwise_similarity": 0.654791041849912,
+            "match_rate": 21.428571428571427,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                14,
+                15
+            ],
+            "pairwise_similarity": 0.7110098597000858,
+            "match_rate": 62.5,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                15,
+                16
+            ],
+            "pairwise_similarity": 0.7143686448140396,
+            "match_rate": 62.5,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                16,
+                17
+            ],
+            "pairwise_similarity": 0.7103474121497464,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                17,
+                18
+            ],
+            "pairwise_similarity": 0.6082242987098349,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                18,
+                19
+            ],
+            "pairwise_similarity": 0.6022908977596391,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                19,
+                20
+            ],
+            "pairwise_similarity": 0.6350986723074146,
+            "match_rate": 12.5,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                20,
+                21
+            ],
+            "pairwise_similarity": 0.6125755221668353,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                21,
+                22
+            ],
+            "pairwise_similarity": 0.5943029657288259,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                22,
+                23
+            ],
+            "pairwise_similarity": 0.590032138260311,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                23,
+                24
+            ],
+            "pairwise_similarity": 0.5546486477095266,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                24,
+                25
+            ],
+            "pairwise_similarity": 0.5965004910480984,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                25,
+                26
+            ],
+            "pairwise_similarity": 0.6280946983140132,
+            "match_rate": 9.090909090909092,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                26,
+                27
+            ],
+            "pairwise_similarity": 0.6986734201183952,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                27,
+                28
+            ],
+            "pairwise_similarity": 0.6714892124807335,
+            "match_rate": 30.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                28,
+                29
+            ],
+            "pairwise_similarity": 0.6545339539314643,
+            "match_rate": 23.333333333333332,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                29,
+                30
+            ],
+            "pairwise_similarity": 0.6336105977104793,
+            "match_rate": 16.666666666666664,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                30,
+                31
+            ],
+            "pairwise_similarity": 0.6536193461814603,
+            "match_rate": 37.5,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                31,
+                32
+            ],
+            "pairwise_similarity": 0.6536189835091146,
+            "match_rate": 37.5,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                32,
+                33
+            ],
+            "pairwise_similarity": 0.6101154369896405,
+            "match_rate": 25.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                33,
+                34
+            ],
+            "pairwise_similarity": 0.6135217294537403,
+            "match_rate": 25.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                34,
+                35
+            ],
+            "pairwise_similarity": 0.6183681007235612,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                35,
+                36
+            ],
+            "pairwise_similarity": 0.5931894204377912,
+            "match_rate": 7.142857142857142,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                36,
+                37
+            ],
+            "pairwise_similarity": 0.6300337394010092,
+            "match_rate": 15.079365079365079,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                37,
+                38
+            ],
+            "pairwise_similarity": 0.5822739582837393,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                38,
+                39
+            ],
+            "pairwise_similarity": 0.6594502310642772,
+            "match_rate": 33.33333333333333,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                39,
+                40
+            ],
+            "pairwise_similarity": 0.6465445960660912,
+            "match_rate": 33.33333333333333,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                40,
+                41
+            ],
+            "pairwise_similarity": 0.6916248342528424,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                41,
+                42
+            ],
+            "pairwise_similarity": 0.6963816055446738,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                42,
+                43
+            ],
+            "pairwise_similarity": 0.6489864819581447,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                43,
+                44
+            ],
+            "pairwise_similarity": 0.5979715371312084,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                44,
+                45
+            ],
+            "pairwise_similarity": 0.6711461935043382,
+            "match_rate": 25.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                45,
+                46
+            ],
+            "pairwise_similarity": 0.7020314240758734,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                46,
+                47
+            ],
+            "pairwise_similarity": 0.6282985930487989,
+            "match_rate": 16.666666666666664,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                47,
+                48
+            ],
+            "pairwise_similarity": 0.6724187720966697,
+            "match_rate": 66.66666666666666,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                48,
+                49
+            ],
+            "pairwise_similarity": 0.6670260186268954,
+            "match_rate": 66.66666666666666,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                49,
+                50
+            ],
+            "pairwise_similarity": 0.6595658133018331,
+            "match_rate": 66.66666666666666,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                50,
+                51
+            ],
+            "pairwise_similarity": 0.6543111232515503,
+            "match_rate": 33.33333333333333,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                51,
+                52
+            ],
+            "pairwise_similarity": 0.6598748525647792,
+            "match_rate": 33.33333333333333,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                52,
+                53
+            ],
+            "pairwise_similarity": 0.6513964222833274,
+            "match_rate": 66.66666666666666,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                53,
+                54
+            ],
+            "pairwise_similarity": 0.6090653099249717,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                54,
+                55
+            ],
+            "pairwise_similarity": 0.6619813047709108,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                55,
+                56
+            ],
+            "pairwise_similarity": null,
+            "match_rate": null,
+            "frame_similarity": 0.8355070948600769,
+            "comparison_type": "frames"
+        },
+        {
+            "video_pair": [
+                56,
+                57
+            ],
+            "pairwise_similarity": null,
+            "match_rate": null,
+            "frame_similarity": 0.7799960374832153,
+            "comparison_type": "frames"
+        },
+        {
+            "video_pair": [
+                57,
+                58
+            ],
+            "pairwise_similarity": 0.7047163851684873,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                58,
+                59
+            ],
+            "pairwise_similarity": 0.7533501948922343,
+            "match_rate": 100.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                59,
+                60
+            ],
+            "pairwise_similarity": 0.6558028478228117,
+            "match_rate": 25.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                60,
+                61
+            ],
+            "pairwise_similarity": 0.6235382314792796,
+            "match_rate": 16.666666666666664,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                61,
+                62
+            ],
+            "pairwise_similarity": 0.6136879565268786,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                62,
+                63
+            ],
+            "pairwise_similarity": 0.5471475660223994,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                63,
+                64
+            ],
+            "pairwise_similarity": 0.6760693507119191,
+            "match_rate": 42.857142857142854,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                64,
+                65
+            ],
+            "pairwise_similarity": 0.666342234969411,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                65,
+                66
+            ],
+            "pairwise_similarity": 0.7028475444628335,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                66,
+                67
+            ],
+            "pairwise_similarity": 0.6901999891901158,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                67,
+                68
+            ],
+            "pairwise_similarity": 0.4918063374015649,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                68,
+                69
+            ],
+            "pairwise_similarity": 0.5420602517285815,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                69,
+                70
+            ],
+            "pairwise_similarity": 0.7500967144165105,
+            "match_rate": 100.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                70,
+                71
+            ],
+            "pairwise_similarity": 0.7135311259695678,
+            "match_rate": 66.66666666666666,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                71,
+                72
+            ],
+            "pairwise_similarity": 0.6749562951582591,
+            "match_rate": 66.66666666666666,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                72,
+                73
+            ],
+            "pairwise_similarity": 0.6613910988613085,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                73,
+                74
+            ],
+            "pairwise_similarity": 0.6378215495312451,
+            "match_rate": 37.5,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                74,
+                75
+            ],
+            "pairwise_similarity": 0.6440042055086899,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                75,
+                76
+            ],
+            "pairwise_similarity": 0.6462607006862243,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                76,
+                77
+            ],
+            "pairwise_similarity": 0.6715301817467497,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                77,
+                78
+            ],
+            "pairwise_similarity": 0.6739169250896738,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                78,
+                79
+            ],
+            "pairwise_similarity": 0.6408290094234811,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                79,
+                80
+            ],
+            "pairwise_similarity": 0.7042312381374267,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                80,
+                81
+            ],
+            "pairwise_similarity": 0.6611120281897859,
+            "match_rate": 33.33333333333333,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                81,
+                82
+            ],
+            "pairwise_similarity": 0.6750827023869969,
+            "match_rate": 33.33333333333333,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                82,
+                83
+            ],
+            "pairwise_similarity": 0.6748000297343739,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                83,
+                84
+            ],
+            "pairwise_similarity": 0.6374663129791849,
+            "match_rate": 25.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                84,
+                85
+            ],
+            "pairwise_similarity": 0.6354773353195445,
+            "match_rate": 25.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                85,
+                86
+            ],
+            "pairwise_similarity": null,
+            "match_rate": null,
+            "frame_similarity": 0.9242004156112671,
+            "comparison_type": "frames"
+        },
+        {
+            "video_pair": [
+                86,
+                87
+            ],
+            "pairwise_similarity": null,
+            "match_rate": null,
+            "frame_similarity": 0.9473322629928589,
+            "comparison_type": "frames"
+        },
+        {
+            "video_pair": [
+                87,
+                88
+            ],
+            "pairwise_similarity": null,
+            "match_rate": null,
+            "frame_similarity": 0.972632884979248,
+            "comparison_type": "frames"
+        },
+        {
+            "video_pair": [
+                88,
+                89
+            ],
+            "pairwise_similarity": null,
+            "match_rate": null,
+            "frame_similarity": 0.9755263924598694,
+            "comparison_type": "frames"
+        },
+        {
+            "video_pair": [
+                89,
+                90
+            ],
+            "pairwise_similarity": 0.7162045358059586,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                90,
+                91
+            ],
+            "pairwise_similarity": 0.6655602119315975,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                91,
+                92
+            ],
+            "pairwise_similarity": 0.6705041831734208,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                92,
+                93
+            ],
+            "pairwise_similarity": 0.6736529511550484,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                93,
+                94
+            ],
+            "pairwise_similarity": 0.7232143210932024,
+            "match_rate": 75.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                94,
+                95
+            ],
+            "pairwise_similarity": 0.7863872001376676,
+            "match_rate": 100.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                95,
+                96
+            ],
+            "pairwise_similarity": 0.6293222716355523,
+            "match_rate": 4.545454545454546,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                96,
+                97
+            ],
+            "pairwise_similarity": 0.6220915445827114,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                97,
+                98
+            ],
+            "pairwise_similarity": 0.6827937946622953,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                98,
+                99
+            ],
+            "pairwise_similarity": 0.7146895617688286,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                99,
+                100
+            ],
+            "pairwise_similarity": 0.7470606014475096,
+            "match_rate": 100.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                100,
+                101
+            ],
+            "pairwise_similarity": 0.7245588108345475,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                101,
+                102
+            ],
+            "pairwise_similarity": 0.7306201124483406,
+            "match_rate": 83.33333333333334,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                102,
+                103
+            ],
+            "pairwise_similarity": 0.7232787338850493,
+            "match_rate": 83.33333333333334,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                103,
+                104
+            ],
+            "pairwise_similarity": 0.7279210584948684,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                104,
+                105
+            ],
+            "pairwise_similarity": 0.7572128624700354,
+            "match_rate": 100.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                105,
+                106
+            ],
+            "pairwise_similarity": 0.7463765650522319,
+            "match_rate": 83.33333333333334,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                106,
+                107
+            ],
+            "pairwise_similarity": 0.7973743129251298,
+            "match_rate": 75.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                107,
+                108
+            ],
+            "pairwise_similarity": 0.6741157680863502,
+            "match_rate": 50.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                108,
+                109
+            ],
+            "pairwise_similarity": 0.6481376839229767,
+            "match_rate": 33.33333333333333,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                109,
+                110
+            ],
+            "pairwise_similarity": 0.7756591295444533,
+            "match_rate": 100.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                110,
+                111
+            ],
+            "pairwise_similarity": 0.8725717294456448,
+            "match_rate": 100.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                111,
+                112
+            ],
+            "pairwise_similarity": 0.6699262831899104,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                112,
+                113
+            ],
+            "pairwise_similarity": 0.6122267513615496,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                113,
+                114
+            ],
+            "pairwise_similarity": 0.6425909905491026,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                114,
+                115
+            ],
+            "pairwise_similarity": 0.5088052450514953,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                115,
+                116
+            ],
+            "pairwise_similarity": 0.6424195017096418,
+            "match_rate": 16.319444444444446,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                116,
+                117
+            ],
+            "pairwise_similarity": 0.6075923589538341,
+            "match_rate": 1.6666666666666667,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                117,
+                118
+            ],
+            "pairwise_similarity": 0.6280045484123793,
+            "match_rate": 8.88888888888889,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                118,
+                119
+            ],
+            "pairwise_similarity": 0.6251341995530909,
+            "match_rate": 2.7777777777777777,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                119,
+                120
+            ],
+            "pairwise_similarity": 0.6477559688526741,
+            "match_rate": 8.333333333333332,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                120,
+                121
+            ],
+            "pairwise_similarity": 0.6109331399870508,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                121,
+                122
+            ],
+            "pairwise_similarity": 0.617196940520422,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                122,
+                123
+            ],
+            "pairwise_similarity": 0.6121373108001598,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                123,
+                124
+            ],
+            "pairwise_similarity": 0.6086399517523291,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                124,
+                125
+            ],
+            "pairwise_similarity": 0.7030197169944031,
+            "match_rate": 100.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                125,
+                126
+            ],
+            "pairwise_similarity": 0.6785681092270429,
+            "match_rate": 33.33333333333333,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                126,
+                127
+            ],
+            "pairwise_similarity": 0.61714472222852,
+            "match_rate": 7.142857142857142,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                127,
+                128
+            ],
+            "pairwise_similarity": 0.660891636934103,
+            "match_rate": 17.857142857142858,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                128,
+                129
+            ],
+            "pairwise_similarity": 0.6665952594749871,
+            "match_rate": 25.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                129,
+                130
+            ],
+            "pairwise_similarity": 0.7135771436522683,
+            "match_rate": 100.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                130,
+                131
+            ],
+            "pairwise_similarity": null,
+            "match_rate": null,
+            "frame_similarity": 0.8590381145477295,
+            "comparison_type": "frames"
+        },
+        {
+            "video_pair": [
+                131,
+                132
+            ],
+            "pairwise_similarity": null,
+            "match_rate": null,
+            "frame_similarity": 0.9545888900756836,
+            "comparison_type": "frames"
+        },
+        {
+            "video_pair": [
+                132,
+                133
+            ],
+            "pairwise_similarity": null,
+            "match_rate": null,
+            "frame_similarity": 0.94101881980896,
+            "comparison_type": "frames"
+        },
+        {
+            "video_pair": [
+                133,
+                134
+            ],
+            "pairwise_similarity": null,
+            "match_rate": null,
+            "frame_similarity": 0.9002221822738647,
+            "comparison_type": "frames"
+        },
+        {
+            "video_pair": [
+                134,
+                135
+            ],
+            "pairwise_similarity": 0.7143413726041742,
+            "match_rate": 100.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                135,
+                136
+            ],
+            "pairwise_similarity": 0.7219187279330102,
+            "match_rate": 100.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                136,
+                137
+            ],
+            "pairwise_similarity": null,
+            "match_rate": null,
+            "frame_similarity": 0.8708591461181641,
+            "comparison_type": "frames"
+        },
+        {
+            "video_pair": [
+                137,
+                138
+            ],
+            "pairwise_similarity": null,
+            "match_rate": null,
+            "frame_similarity": 0.9520870447158813,
+            "comparison_type": "frames"
+        },
+        {
+            "video_pair": [
+                138,
+                139
+            ],
+            "pairwise_similarity": 0.8012311098250751,
+            "match_rate": 100.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                139,
+                140
+            ],
+            "pairwise_similarity": 0.6648889777089285,
+            "match_rate": 16.666666666666664,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                140,
+                141
+            ],
+            "pairwise_similarity": 0.676709417592543,
+            "match_rate": 25.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                141,
+                142
+            ],
+            "pairwise_similarity": 0.6665643866930546,
+            "match_rate": 32.142857142857146,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                142,
+                143
+            ],
+            "pairwise_similarity": 0.6802374082041759,
+            "match_rate": 32.142857142857146,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                143,
+                144
+            ],
+            "pairwise_similarity": 0.6742518431891842,
+            "match_rate": 25.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                144,
+                145
+            ],
+            "pairwise_similarity": 0.6655127863113566,
+            "match_rate": 31.512605042016805,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                145,
+                146
+            ],
+            "pairwise_similarity": 0.6230182912332677,
+            "match_rate": 11.76470588235294,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                146,
+                147
+            ],
+            "pairwise_similarity": 0.5699766576573757,
+            "match_rate": 13.333333333333334,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                147,
+                148
+            ],
+            "pairwise_similarity": 0.5461228395889075,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                148,
+                149
+            ],
+            "pairwise_similarity": 0.5826933248876052,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                149,
+                150
+            ],
+            "pairwise_similarity": 0.6666447388479413,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                150,
+                151
+            ],
+            "pairwise_similarity": 0.7470528444670541,
+            "match_rate": 100.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                151,
+                152
+            ],
+            "pairwise_similarity": 0.6422696042419381,
+            "match_rate": 19.047619047619047,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                152,
+                153
+            ],
+            "pairwise_similarity": 0.6364970290021015,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                153,
+                154
+            ],
+            "pairwise_similarity": 0.5468082474917693,
+            "match_rate": 11.11111111111111,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                154,
+                155
+            ],
+            "pairwise_similarity": 0.5709790698074789,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                155,
+                156
+            ],
+            "pairwise_similarity": 0.5957097031890787,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                156,
+                157
+            ],
+            "pairwise_similarity": 0.6092916092520628,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                157,
+                158
+            ],
+            "pairwise_similarity": 0.6243418894334628,
+            "match_rate": 0.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                158,
+                159
+            ],
+            "pairwise_similarity": 0.7522458200547483,
+            "match_rate": 66.66666666666666,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                159,
+                160
+            ],
+            "pairwise_similarity": 0.5765488140293127,
+            "match_rate": 7.6923076923076925,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                160,
+                161
+            ],
+            "pairwise_similarity": 0.5789586468213977,
+            "match_rate": 17.582417582417584,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                161,
+                162
+            ],
+            "pairwise_similarity": 0.7024830101807863,
+            "match_rate": 42.857142857142854,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                162,
+                163
+            ],
+            "pairwise_similarity": 0.7458791838308199,
+            "match_rate": 88.88888888888889,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                163,
+                164
+            ],
+            "pairwise_similarity": 0.7512991971493636,
+            "match_rate": 83.33333333333334,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        },
+        {
+            "video_pair": [
+                164,
+                165
+            ],
+            "pairwise_similarity": 0.7406419240850766,
+            "match_rate": 75.0,
+            "frame_similarity": null,
+            "comparison_type": "people"
+        }
+    ]
+}
